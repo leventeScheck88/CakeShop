@@ -1,0 +1,178 @@
+{
+  "nav": {
+    "home": "Kezdőlap",
+    "about": "Rólunk",
+    "products": "Termékek",
+    "contact": "Kapcsolat",
+    "order": "Rendelés"
+  },
+  "footer": {
+    "tagline": "Kézműves édességek, szenvedéllyel és minőségi alapanyagokkal készítve. Minden termék egyedi, szeretettel készítve a különleges pillanataidhoz.",
+    "navigation": "Navigáció",
+    "contact": "Kapcsolat",
+    "copyright": "© {{year}} CakeStore. Minden jog fenntartva."
+  },
+  "home": {
+    "hero": {
+      "headline": "Kézműves Édességek,",
+      "headlineAccent": "Szenvedéllyel Készítve",
+      "subtitle": "Minden torta, sütemény és macaron prémium alapanyagokból és rengeteg szeretettel készül, a legkülönlegesebb pillanataidhoz.",
+      "cta": "Termékek megtekintése",
+      "ctaSecondary": "Rendelés leadása"
+    },
+    "featured": {
+      "title": "Népszerű Termékek",
+      "subtitle": "Vásárlóink kedvenc desszertjei",
+      "viewAll": "Összes termék megtekintése"
+    },
+    "categories": {
+      "title": "Kategóriák",
+      "subtitle": "Fedezd fel változatos desszert kínálatunkat"
+    },
+    "aboutTeaser": {
+      "title": "A Mi Történetünk",
+      "p1": "A sütészet iránt érzett szenvedélyből és az emberek életébe örömöt hozni akarásból kezdtem el édességeket készíteni. Minden termék kézzel készül, gondosan válogatott alapanyagokból, nagy odafigyeléssel a részletekre.",
+      "p2": "Az elegáns esküvői tortáktól a kicsik számára készített vidám süteményekig minden alkotás egyedi és személyre szabott.",
+      "readMore": "Olvass Tovább"
+    },
+    "cta": {
+      "title": "Különleges eseményed van?",
+      "subtitle": "Legyen szó esküvőről, születésnapról vagy bármilyen más alkalomról, itt vagyunk, hogy a tökéletes desszertet elkészítsük neked.",
+      "button": "Rendelés küldése"
+    }
+  },
+  "products": {
+    "pageTitle": "Termékeink",
+    "filterAll": "Összes",
+    "pagination": {
+      "prev": "Előző",
+      "next": "Következő"
+    },
+    "noResults": "Ebben a kategóriában nem találtunk termékeket.",
+    "error": "Hiba történt a termékek betöltésekor."
+  },
+  "productDetail": {
+    "breadcrumb": {
+      "home": "Kezdőlap",
+      "products": "Termékek"
+    },
+    "available": "Elérhető",
+    "unavailable": "Jelenleg nem elérhető",
+    "relatedTitle": "Hasonló Termékek",
+    "orderButton": "Rendelés",
+    "contactButton": "Kapcsolatfelvétel",
+    "notFound": "A termék nem található.",
+    "backToProducts": "Vissza a termékekhez"
+  },
+  "about": {
+    "pageTitle": "Rólunk",
+    "story": {
+      "p1": "Minden egy kis konyhában kezdődött, egy nagymamától örökölt tortarecepttel és azzal az erős vággyal, hogy különleges édességekkel boldoggá tegyük az embereket. Azóta lépésről lépésre növekedtünk, folyamatosan tanulva és tökéletesítve technikáinkat.",
+      "p2": "Ma minden torta, sütemény vagy macaron, amit készítünk, ugyanazt a szenvedélyt és elkötelezettséget hordozza, mint az elején. Prémium alapanyagokkal dolgozunk, nemzetközi trendekből merítünk ihletet, és minden rendelést vásárlóink kívánságai szerint személyre szabunk.",
+      "p3": "Úgy gondoljuk, hogy egy jó desszert nemcsak az ízlelőbimbók élménye — hanem emlékeket teremtő élmény. Ezért minden rendelést ugyanolyan gondossággal kezelünk, legyen szó egy grandiózus esküvői tortáról vagy egy süteményes dobozról egy hétköznapi napra, amely megérdemel valamit édeset."
+    },
+    "valuesTitle": "Értékeink",
+    "values": {
+      "natural": {
+        "title": "Természetes Alapanyagok",
+        "description": "Csak a legfrissebb és legjobb minőségű alapanyagokat használjuk, tartósítószerek és mesterséges aromák nélkül."
+      },
+      "handmade": {
+        "title": "Kézzel Készítve",
+        "description": "Minden terméket kézzel készítünk, a részletekre odafigyelve, az alaptésztától az utolsó díszítő elemig."
+      },
+      "love": {
+        "title": "Szeretettel Készítve",
+        "description": "Lelket teszünk mindenbe, amit csinálunk. A sütészet iránt érzett szenvedélyünk minden falatban érezhető."
+      }
+    },
+    "cta": {
+      "title": "Hozzunk létre valami különlegeset együtt",
+      "subtitle": "Mesélj az eseményedről, és mi elkészítjük a tökéletes desszertet.",
+      "button": "Rendelés leadása"
+    }
+  },
+  "contact": {
+    "pageTitle": "Kapcsolat",
+    "formTitle": "Küldj nekünk üzenetet",
+    "fields": {
+      "name": "Név *",
+      "email": "Email *",
+      "phone": "Telefon",
+      "eventType": "Esemény típusa",
+      "eventDate": "Esemény dátuma",
+      "message": "Üzenet *"
+    },
+    "placeholders": {
+      "eventType": "Válassz..."
+    },
+    "eventTypes": {
+      "wedding": "Esküvő",
+      "birthday": "Születésnap",
+      "baptism": "Keresztelő",
+      "corporate": "Céges esemény",
+      "other": "Egyéb"
+    },
+    "contactInfoTitle": "Elérhetőségeink",
+    "contactInfo": {
+      "phone": "Telefon",
+      "email": "Email",
+      "address": "Cím",
+      "hours": "Nyitvatartás",
+      "hoursValue": "Hétfő - Szombat: 09:00 - 18:00",
+      "sundayClosed": "Vasárnap: Zárva"
+    },
+    "followUs": "Kövess minket",
+    "submit": "Üzenet küldése",
+    "submitting": "Küldés...",
+    "success": {
+      "title": "Üzeneted sikeresen elküldve!",
+      "subtitle": "Hamarosan felvesszük veled a kapcsolatot.",
+      "sendAnother": "Másik üzenet küldése"
+    },
+    "error": "Hiba történt."
+  },
+  "order": {
+    "pageTitle": "Rendelés Leadása",
+    "pageSubtitle": "Töltsd ki az alábbi űrlapot a rendelési adataiddal. Megerősítés és árazás céljából felvesszük veled a kapcsolatot.",
+    "fields": {
+      "customerName": "Teljes név *",
+      "customerEmail": "Email *",
+      "customerPhone": "Telefon *",
+      "productType": "Termék típusa",
+      "eventType": "Esemény típusa",
+      "eventDate": "Esemény dátuma",
+      "requirements": "Követelmények és részletek *",
+      "referenceImages": "Referencia képek"
+    },
+    "placeholders": {
+      "select": "Válassz...",
+      "requirements": "Írd le a kívánt terméket, adagok számát, ízpreferenciákat, allergéneket stb."
+    },
+    "eventTypes": {
+      "wedding": "Esküvő",
+      "birthday": "Születésnap",
+      "baptism": "Keresztelő",
+      "corporate": "Céges esemény",
+      "other": "Egyéb"
+    },
+    "submit": "Rendelés elküldése",
+    "submitting": "Küldés...",
+    "success": {
+      "title": "Rendelésedet elküldtük!",
+      "subtitle": "Hamarosan felvesszük veled a kapcsolatot a megerősítés és részletek miatt.",
+      "backHome": "Vissza a főoldalra",
+      "viewProducts": "Termékek megtekintése"
+    },
+    "error": "Hiba történt."
+  },
+  "fileUpload": {
+    "label": "Kattints referencia képek hozzáadásához",
+    "helper": "Maximum {{maxFiles}} kép (JPG, PNG, WebP)"
+  },
+  "notFound": {
+    "title": "Az oldal nem található",
+    "message": "Sajnáljuk, a keresett oldal nem létezik vagy áthelyezték.",
+    "backHome": "Vissza a főoldalra"
+  }
+}

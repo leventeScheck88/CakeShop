@@ -1,0 +1,17 @@
+{
+  "name": "cakestore-e2e",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "PLAYWRIGHT_BROWSERS_PATH=/tmp/playwright-browsers playwright test",
+    "test:ui": "PLAYWRIGHT_BROWSERS_PATH=/tmp/playwright-browsers playwright test --ui",
+    "test:headed": "PLAYWRIGHT_BROWSERS_PATH=/tmp/playwright-browsers playwright test --headed",
+    "test:debug": "PLAYWRIGHT_BROWSERS_PATH=/tmp/playwright-browsers playwright test --debug",
+    "install:browsers": "PLAYWRIGHT_BROWSERS_PATH=/tmp/playwright-browsers playwright install chromium",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.0.0"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "about": "Despre Noi",
+    "products": "Produse",
+    "contact": "Contact",
+    "order": "Comandă"
+  },
+  "footer": {
+    "tagline": "Dulciuri artizanale, create cu pasiune și ingrediente de calitate. Fiecare produs este unic și pregătit cu drag pentru momentele tale speciale.",
+    "navigation": "Navigare",
+    "contact": "Contact",
+    "copyright": "© {{year}} CakeStore. Toate drepturile rezervate."
+  },
+  "home": {
+    "hero": {
+      "headline": "Dulciuri Artizanale,",
+      "headlineAccent": "Create cu Pasiune",
+      "subtitle": "Fiecare tort, fursec și macaron este creat cu ingrediente premium și multă dragoste, pentru momentele tale cele mai speciale.",
+      "cta": "Vezi Produsele",
+      "ctaSecondary": "Plasează o Comandă"
+    },
+    "featured": {
+      "title": "Produse Populare",
+      "subtitle": "Deserturile preferate de clienții noștri",
+      "viewAll": "Vezi Toate Produsele"
+    },
+    "categories": {
+      "title": "Categorii",
+      "subtitle": "Explorează gama noastră variată de deserturi"
+    },
+    "aboutTeaser": {
+      "title": "Povestea Noastră",
+      "p1": "Am început să creez deserturi din pasiunea pentru cofetărie și dorința de a aduce bucurie în viața oamenilor. Fiecare produs este realizat manual, cu ingrediente atent selecționate și multă atenție la detalii.",
+      "p2": "De la torturi de nuntă elegante până la fursecuri jucăușe pentru cei mici, fiecare creație este unică și personalizată.",
+      "readMore": "Citește Mai Mult"
+    },
+    "cta": {
+      "title": "Ai un eveniment special?",
+      "subtitle": "Fie că este o nuntă, o zi de naștere sau orice alt eveniment, suntem aici să creăm desertul perfect pentru tine.",
+      "button": "Trimite o Comandă"
+    }
+  },
+  "products": {
+    "pageTitle": "Produsele Noastre",
+    "filterAll": "Toate",
+    "pagination": {
+      "prev": "Anterior",
+      "next": "Următor"
+    },
+    "noResults": "Nu am găsit produse în această categorie.",
+    "error": "A apărut o eroare la încărcarea produselor."
+  },
+  "productDetail": {
+    "breadcrumb": {
+      "home": "Acasă",
+      "products": "Produse"
+    },
+    "available": "Disponibil",
+    "unavailable": "Indisponibil momentan",
+    "relatedTitle": "Produse Similare",
+    "orderButton": "Comandă",
+    "contactButton": "Contactează-ne",
+    "notFound": "Produsul nu a fost găsit.",
+    "backToProducts": "Înapoi la Produse"
+  },
+  "about": {
+    "pageTitle": "Despre Noi",
+    "story": {
+      "p1": "Totul a început într-o bucătărie mică, cu o rețetă de tort moștenită de la bunica și o dorință mare de a face oamenii fericiți prin deserturi speciale. De atunci, am crescut pas cu pas, învățând constant și perfecționându-ne tehnicile.",
+      "p2": "Astăzi, fiecare tort, fursec sau macaron pe care îl creăm poartă aceeași pasiune și dedicare de la început. Lucrăm cu ingrediente premium, ne inspirăm din tendințele internaționale și personalizăm fiecare comandă în funcție de dorințele clienților noștri.",
+      "p3": "Credem că un desert bun nu este doar o plăcere a papilelor gustative — este o experiență care creează amintiri. De aceea, tratăm fiecare comandă cu aceeași atenție, fie că este vorba de un tort de nuntă grandios sau o cutie de fursecuri pentru o zi obișnuită care merită ceva dulce."
+    },
+    "valuesTitle": "Valorile Noastre",
+    "values": {
+      "natural": {
+        "title": "Ingrediente Naturale",
+        "description": "Folosim doar ingrediente proaspete și de cea mai bună calitate, fără conservanți sau arome artificiale."
+      },
+      "handmade": {
+        "title": "Făcute Manual",
+        "description": "Fiecare produs este creat manual cu atenție la detalii, de la blat până la ultimul element decorativ."
+      },
+      "love": {
+        "title": "Cu Dragoste",
+        "description": "Punem suflet în tot ceea ce facem. Pasiunea noastră pentru cofetărie se simte în fiecare îmbucătură."
+      }
+    },
+    "cta": {
+      "title": "Hai să creăm ceva special împreună",
+      "subtitle": "Spune-ne despre evenimentul tău și vom crea desertul perfect.",
+      "button": "Plasează o Comandă"
+    }
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "formTitle": "Trimite-ne un mesaj",
+    "fields": {
+      "name": "Nume *",
+      "email": "Email *",
+      "phone": "Telefon",
+      "eventType": "Tip eveniment",
+      "eventDate": "Data evenimentului",
+      "message": "Mesaj *"
+    },
+    "placeholders": {
+      "eventType": "Selectează..."
+    },
+    "eventTypes": {
+      "wedding": "Nuntă",
+      "birthday": "Zi de naștere",
+      "baptism": "Botez",
+      "corporate": "Eveniment corporate",
+      "other": "Altele"
+    },
+    "contactInfoTitle": "Informații de Contact",
+    "contactInfo": {
+      "phone": "Telefon",
+      "email": "Email",
+      "address": "Adresă",
+      "hours": "Program",
+      "hoursValue": "Luni - Sâmbătă: 09:00 - 18:00",
+      "sundayClosed": "Duminică: Închis"
+    },
+    "followUs": "Urmărește-ne",
+    "submit": "Trimite Mesajul",
+    "submitting": "Se trimite...",
+    "success": {
+      "title": "Mesajul tău a fost trimis cu succes!",
+      "subtitle": "Te vom contacta în curând.",
+      "sendAnother": "Trimite alt mesaj"
+    },
+    "error": "A apărut o eroare."
+  },
+  "order": {
+    "pageTitle": "Plasează o Comandă",
+    "pageSubtitle": "Completează formularul de mai jos cu detaliile comenzii tale. Te vom contacta pentru confirmare și detalii despre preț.",
+    "fields": {
+      "customerName": "Nume complet *",
+      "customerEmail": "Email *",
+      "customerPhone": "Telefon *",
+      "productType": "Tip produs",
+      "eventType": "Tip eveniment",
+      "eventDate": "Data evenimentului",
+      "requirements": "Cerințe și detalii *",
+      "referenceImages": "Imagini de referință"
+    },
+    "placeholders": {
+      "select": "Selectează...",
+      "requirements": "Descrie produsul dorit, număr de porții, preferințe de arome, alergeni, etc."
+    },
+    "eventTypes": {
+      "wedding": "Nuntă",
+      "birthday": "Zi de naștere",
+      "baptism": "Botez",
+      "corporate": "Eveniment corporate",
+      "other": "Altele"
+    },
+    "submit": "Trimite Comanda",
+    "submitting": "Se trimite...",
+    "success": {
+      "title": "Comanda ta a fost trimisă!",
+      "subtitle": "Te vom contacta în curând pentru confirmare și detalii.",
+      "backHome": "Înapoi Acasă",
+      "viewProducts": "Vezi Produsele"
+    },
+    "error": "A apărut o eroare."
+  },
+  "fileUpload": {
+    "label": "Click pentru a adăuga imagini de referință",
+    "helper": "Maximum {{maxFiles}} imagini (JPG, PNG, WebP)"
+  },
+  "notFound": {
+    "title": "Pagina nu a fost găsită",
+    "message": "Ne pare rău, pagina pe care o cauți nu există sau a fost mutată.",
+    "backHome": "Înapoi la Pagina Principală"
+  }
+}

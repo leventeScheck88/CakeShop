@@ -1,0 +1,178 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "contact": "Contact",
+    "order": "Order"
+  },
+  "footer": {
+    "tagline": "Artisan sweets crafted with passion and quality ingredients. Every product is unique, made with love for your special moments.",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "copyright": "© {{year}} CakeStore. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "headline": "Artisan Sweets,",
+      "headlineAccent": "Made with Passion",
+      "subtitle": "Every cake, cookie, and macaron is crafted with premium ingredients and lots of love, for your most special moments.",
+      "cta": "View Products",
+      "ctaSecondary": "Place an Order"
+    },
+    "featured": {
+      "title": "Popular Products",
+      "subtitle": "Our customers' favourite desserts",
+      "viewAll": "View All Products"
+    },
+    "categories": {
+      "title": "Categories",
+      "subtitle": "Explore our varied range of desserts"
+    },
+    "aboutTeaser": {
+      "title": "Our Story",
+      "p1": "I started creating desserts out of a passion for baking and a desire to bring joy to people's lives. Every product is handmade with carefully selected ingredients and great attention to detail.",
+      "p2": "From elegant wedding cakes to playful cookies for the little ones, every creation is unique and personalised.",
+      "readMore": "Read More"
+    },
+    "cta": {
+      "title": "Have a special event?",
+      "subtitle": "Whether it's a wedding, a birthday, or any other occasion, we're here to create the perfect dessert for you.",
+      "button": "Send an Order"
+    }
+  },
+  "products": {
+    "pageTitle": "Our Products",
+    "filterAll": "All",
+    "pagination": {
+      "prev": "Previous",
+      "next": "Next"
+    },
+    "noResults": "No products found in this category.",
+    "error": "An error occurred while loading products."
+  },
+  "productDetail": {
+    "breadcrumb": {
+      "home": "Home",
+      "products": "Products"
+    },
+    "available": "Available",
+    "unavailable": "Currently Unavailable",
+    "relatedTitle": "Related Products",
+    "orderButton": "Order",
+    "contactButton": "Contact Us",
+    "notFound": "Product not found.",
+    "backToProducts": "Back to Products"
+  },
+  "about": {
+    "pageTitle": "About Us",
+    "story": {
+      "p1": "It all started in a small kitchen, with a cake recipe inherited from my grandmother and a strong desire to make people happy through special desserts. Since then, we've grown step by step, constantly learning and perfecting our techniques.",
+      "p2": "Today, every cake, cookie, or macaron we create carries the same passion and dedication from the very beginning. We work with premium ingredients, draw inspiration from international trends, and personalise every order according to our customers' wishes.",
+      "p3": "We believe a great dessert is not just a treat for the taste buds — it's an experience that creates memories. That's why we treat every order with the same care, whether it's a grand wedding cake or a box of cookies for an ordinary day that deserves something sweet."
+    },
+    "valuesTitle": "Our Values",
+    "values": {
+      "natural": {
+        "title": "Natural Ingredients",
+        "description": "We use only the freshest and highest quality ingredients, with no preservatives or artificial flavours."
+      },
+      "handmade": {
+        "title": "Handmade",
+        "description": "Every product is crafted by hand with attention to detail, from the base to the last decorative element."
+      },
+      "love": {
+        "title": "Made with Love",
+        "description": "We put our heart into everything we do. Our passion for baking is felt in every bite."
+      }
+    },
+    "cta": {
+      "title": "Let's create something special together",
+      "subtitle": "Tell us about your event and we'll create the perfect dessert.",
+      "button": "Place an Order"
+    }
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "formTitle": "Send us a message",
+    "fields": {
+      "name": "Name *",
+      "email": "Email *",
+      "phone": "Phone",
+      "eventType": "Event type",
+      "eventDate": "Event date",
+      "message": "Message *"
+    },
+    "placeholders": {
+      "eventType": "Select..."
+    },
+    "eventTypes": {
+      "wedding": "Wedding",
+      "birthday": "Birthday",
+      "baptism": "Baptism",
+      "corporate": "Corporate event",
+      "other": "Other"
+    },
+    "contactInfoTitle": "Contact Information",
+    "contactInfo": {
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "hours": "Hours",
+      "hoursValue": "Monday - Saturday: 09:00 - 18:00",
+      "sundayClosed": "Sunday: Closed"
+    },
+    "followUs": "Follow us",
+    "submit": "Send Message",
+    "submitting": "Sending...",
+    "success": {
+      "title": "Your message has been sent successfully!",
+      "subtitle": "We will contact you soon.",
+      "sendAnother": "Send another message"
+    },
+    "error": "An error occurred."
+  },
+  "order": {
+    "pageTitle": "Place an Order",
+    "pageSubtitle": "Fill in the form below with your order details. We will contact you for confirmation and pricing.",
+    "fields": {
+      "customerName": "Full name *",
+      "customerEmail": "Email *",
+      "customerPhone": "Phone *",
+      "productType": "Product type",
+      "eventType": "Event type",
+      "eventDate": "Event date",
+      "requirements": "Requirements and details *",
+      "referenceImages": "Reference images"
+    },
+    "placeholders": {
+      "select": "Select...",
+      "requirements": "Describe the desired product, number of servings, flavour preferences, allergens, etc."
+    },
+    "eventTypes": {
+      "wedding": "Wedding",
+      "birthday": "Birthday",
+      "baptism": "Baptism",
+      "corporate": "Corporate event",
+      "other": "Other"
+    },
+    "submit": "Submit Order",
+    "submitting": "Sending...",
+    "success": {
+      "title": "Your order has been sent!",
+      "subtitle": "We will contact you soon for confirmation and details.",
+      "backHome": "Back Home",
+      "viewProducts": "View Products"
+    },
+    "error": "An error occurred."
+  },
+  "fileUpload": {
+    "label": "Click to add reference images",
+    "helper": "Maximum {{maxFiles}} images (JPG, PNG, WebP)"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "message": "Sorry, the page you are looking for does not exist or has been moved.",
+    "backHome": "Back to Home"
+  }
+}

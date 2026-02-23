@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Lato:wght@300;400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Light theme (default) */
+:root {
+  --color-cream: 255 248 240;
+  --color-blush: 248 232 224;
+  --color-blush-dark: 232 196 184;
+  --color-gold: 201 169 110;
+  --color-gold-light: 232 213 168;
+  --color-charcoal: 45 45 45;
+  --color-warm-gray: 107 107 107;
+}
+
+/* Dark theme */
+html.dark {
+  --color-cream: 20 16 12;
+  --color-blush: 32 26 20;
+  --color-blush-dark: 52 42 32;
+  --color-gold: 201 169 110;
+  --color-gold-light: 180 150 95;
+  --color-charcoal: 235 225 210;
+  --color-warm-gray: 160 145 125;
+}
+
+body {
+  @apply bg-cream text-charcoal font-sans m-0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-serif;
+}

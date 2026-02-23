@@ -1,0 +1,1009 @@
+{
+  "version": 13,
+  "files": {
+    "backend/src/modules/orders/entities/order.entity.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845246408
+    },
+    "backend/src/modules/categories/categories.service.ts": {
+      "hash": "c28eef66b8171af60de8e014eea96daaf7a164693e1dc3411704ec23baad9787",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845246410
+    },
+    "backend/src/modules/categories/categories.module.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845246513
+    },
+    "backend/src/modules/contact/contact.module.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845246513
+    },
+    "backend/src/modules/products/products.module.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845246513
+    },
+    "backend/src/modules/orders/orders.module.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845246513
+    },
+    "backend/src/app.module.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845247107
+    },
+    "backend/src/modules/products/entities/product.entity.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845247109
+    },
+    "backend/.eslintrc.js": {
+      "hash": "38272720f4961ed28d233b9d8ab67d0199b60a08901a9a94ae97dd95efe72c09",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845247593
+    },
+    "backend/src/common/interceptors/response.interceptor.ts": {
+      "hash": "cab1c1ce597899a2b2dca7f4520671a19b77ec5016605e0c6a6e2d9f51486441",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845247594
+    },
+    "backend/src/modules/orders/orders.service.ts": {
+      "hash": "3c0b6991c274187ea2b746cd0eefd3eefb34742313ccd089ba07d2c5388f1f53",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845247594
+    },
+    "backend/src/modules/contact/contact.service.ts": {
+      "hash": "3c0b6991c274187ea2b746cd0eefd3eefb34742313ccd089ba07d2c5388f1f53",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845247595
+    },
+    "backend/src/main.ts": {
+      "hash": "1fbde8e40a8a9da39d82a2dbc75890e9ffbfcb6c57271df23998e9d1c62dd898",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845247977
+    },
+    "backend/src/common/config/multer.config.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845247978
+    },
+    "backend/src/modules/categories/entities/category.entity.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845247978
+    },
+    "backend/src/modules/categories/categories.controller.ts": {
+      "hash": "b3efe590d74123d1699e96c6336b11a0b35699290911bbdc307eb10da181767d",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845248138
+    },
+    "backend/src/common/dto/api-response.dto.ts": {
+      "hash": "672d565ced2c47a0dc895f6f20bbc750def75c2974c35d533961972c02d93ba7",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845248139
+    },
+    "backend/src/modules/products/products.service.ts": {
+      "hash": "40ff75aabc9da94714dd316230611b481d759321cad998839264f2a9daa02cf8",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845249118
+    },
+    "backend/src/modules/contact/entities/contact-message.entity.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845250029
+    },
+    "backend/src/modules/products/products.controller.ts": {
+      "hash": "49bfd96eed858b6f92f99825a57492848e5fda638fce804f381073eb53e67bef",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845250030
+    },
+    "backend/src/modules/orders/dto/create-order.dto.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845250030
+    },
+    "backend/src/modules/orders/orders.controller.ts": {
+      "hash": "2aacf0bd0efdaf08cb9c7cf42ca6d9d6926a495f239d4a19981f460ae5ffb653",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845250848
+    },
+    "backend/src/common/interfaces/paginated-result.interface.ts": {
+      "hash": "d6d4ed24bc90c1907213da0536e0e8da127d6daead01ed17ae3652f0de8ca331",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845251197
+    },
+    "backend/src/seed.ts": {
+      "hash": "9f0814713ab57a01ebac739622532abfaa5df1d406e47f2c4d7ea25bb19e1523",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845252974
+    },
+    "backend/src/modules/products/dto/filter-products.dto.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845260088
+    },
+    "backend/src/modules/contact/dto/create-contact.dto.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845260088
+    },
+    "backend/src/modules/contact/contact.controller.ts": {
+      "hash": "ed7b717097925485b5c830bf4c597ff4f4ff4c36f7d81a2dec5e3b049fce26f9",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845260088
+    },
+    "backend/src/common/dto/pagination-query.dto.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845260089
+    },
+    "frontend/src/services/contact.service.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845549352
+    },
+    "frontend/vite.config.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845549352
+    },
+    "frontend/postcss.config.js": {
+      "hash": "190c877db466995bf1482f4a16abd06e04a89ede3119341e2a86ff96e1737b27",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845549353
+    },
+    "frontend/src/hooks/useHtmlLang.ts": {
+      "hash": "9525a90a2f63b00caf69a85fc9c7c0d208e60bcccbb4d56bba05076bddc35c83",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845549500
+    },
+    "frontend/src/main.tsx": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845549501
+    },
+    "frontend/src/components/ui/LoadingSpinner.tsx": {
+      "hash": "d3147e43f683e42074e4a6a96d4dc2f0064b67aeea98a4c5bc5d02b549bde80c",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845549501
+    },
+    "frontend/src/hooks/useScrollToTop.ts": {
+      "hash": "5b45840dc3ab3c5eb3014e96c6b9e2a4dd8f7f84e2a417b29f59a72bd776ab87",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845549501
+    },
+    "frontend/src/services/categories.service.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845549502
+    },
+    "frontend/src/pages/NotFoundPage.tsx": {
+      "hash": "c880cf903733e08385d4f0879ad891da9065103a2ba67f4730e0acde1e94f7f9",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845550080
+    },
+    "frontend/eslint.config.js": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845550081
+    },
+    "frontend/src/components/ui/SectionHeading.tsx": {
+      "hash": "df23455a36ac1f33e944d17484e72169b3bf45acc0d8491496b56112dcf81f4b",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845550081
+    },
+    "frontend/src/components/layout/Layout.tsx": {
+      "hash": "02f8c452999469767d246b1994f3c2e4e6a80fbccb9b50f7ccbed222d7b53349",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845550082
+    },
+    "frontend/src/services/api.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845550082
+    },
+    "frontend/src/components/ui/Button.tsx": {
+      "hash": "88cd9d33f833fa36f56b18f3d75e310043f1ed3d83548f4800ae482f04600973",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845550564
+    },
+    "frontend/src/types/index.ts": {
+      "hash": "75580d90392f794091c29a9aaa3a4b9e6325c0d361b15df5006cd39f1233e875",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845550565
+    },
+    "frontend/src/components/ui/ThemeToggle.tsx": {
+      "hash": "e11be0ba671fa46a95e9be9d8c86f34123f7cb4221bd3422f05c076454094ab3",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845550566
+    },
+    "e2e/playwright.config.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845550567
+    },
+    "frontend/src/components/ui/Breadcrumb.tsx": {
+      "hash": "6621e3443c394192b8d88620d285f5eb790a67796f1b962dbcb5ddd9dab779d8",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845550567
+    },
+    "frontend/src/pages/ProductsPage.tsx": {
+      "hash": "1f1677e5eb3058ed2fb293a632e66f79c33e8320c6e9ca64164047824ae7d3e6",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845551470
+    },
+    "frontend/src/pages/AboutPage.tsx": {
+      "hash": "3893f8fe97fce61383016480c2d972325613bfa4fcb9f6c8af5fdec92e7745be",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845551472
+    },
+    "frontend/src/components/layout/Header.tsx": {
+      "hash": "7aff7e8588fa8752a1ffd58866c9e8193586ec7139019ce685903713b1dd8992",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845551473
+    },
+    "frontend/src/components/ui/LanguageSwitcher.tsx": {
+      "hash": "c87505a93026a8d95eb3df8df9365185aa687058f5393be18fe36dda746f2388",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845551476
+    },
+    "frontend/src/components/ui/FileUpload.tsx": {
+      "hash": "d40809ad5389cc7938ebf1f70ff4527c80fcc8d6dfff7a5d4db1d2943b069d08",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845551477
+    },
+    "frontend/src/components/ui/ImageGallery.tsx": {
+      "hash": "03e6c46cfcb97ccf7c6290e5a6e177516b9fa69930b83d0426d3dd433afa7eba",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845553029
+    },
+    "frontend/src/components/ui/ProductCard.tsx": {
+      "hash": "261fb1093d1bf4e313ed9586b6dfc7cade7aeb8aeb17a2cea9d54e2d7bc57e85",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845553030
+    },
+    "frontend/src/hooks/useProducts.ts": {
+      "hash": "3e634936628c7fd88fd9ef604d148e7e13c7bcf30f9ae6038531a821bd65b8ab",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845553030
+    },
+    "frontend/src/App.tsx": {
+      "hash": "3b1935a59385afe9a02bd5aee4aed0441f8b05bea48e496d1a1adf23f91ea7fe",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845553031
+    },
+    "frontend/src/context/ThemeContext.tsx": {
+      "hash": "0226d72abef951133c0d144b56b0545a8bb2d8a5632fe6b3ed5b911c4bebc7ca",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845553031
+    },
+    "frontend/src/pages/ContactPage.tsx": {
+      "hash": "9be53b37487cbd1205d2a3c97a1ef885161330460edfaf9cc507154495fb0fc0",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845553488
+    },
+    "frontend/src/pages/OrderPage.tsx": {
+      "hash": "22df46b0f6e51b470f59240cf3c08defdd6cfdbfca8e816e1d11ee03e12deb4a",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845553491
+    },
+    "frontend/src/pages/ProductDetailPage.tsx": {
+      "hash": "c38b3385794934738ceb21728389793cd76172687410fc7efeee5c1d070f2bf9",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845553493
+    },
+    "frontend/src/components/layout/Footer.tsx": {
+      "hash": "adb0f73549fce8222ad21be6fb198c43c0b4a7580fd9fdd608def4cdd4897697",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845553494
+    },
+    "frontend/src/pages/HomePage.tsx": {
+      "hash": "35771bc9908917e3a472da53ca9854a5fd987a74ff25e459599c90dfb0479ce9",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845553495
+    },
+    "frontend/src/hooks/useCategories.ts": {
+      "hash": "1831c06d68b908bed95b7ef312345571b9a6a205083e68e6aeded65c18885bcc",
+      "nodes": [
+        {
+          "id": "frontend/src/hooks/useCategories.ts::useCategories",
+          "label": "Fetch categories",
+          "type": "step",
+          "description": null,
+          "source": {
+            "file": "frontend/src/hooks/useCategories.ts",
+            "line": 5,
+            "function": "useCategories"
+          },
+          "model": null,
+          "temperature": null
+        }
+      ],
+      "internalEdges": [],
+      "timestamp": 1771845560770,
+      "nodeWorkflows": {
+        "frontend/src/hooks/useCategories.ts::useCategories": {
+          "id": "workflow_fetch_categories",
+          "name": "Fetch Categories"
+        }
+      }
+    },
+    "frontend/tailwind.config.js": {
+      "hash": "d805745b3f0f3cfa812867c80fd4630ea841603838f283ec0fb09ee987dc3933",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845560771
+    },
+    "frontend/src/services/orders.service.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845560772
+    },
+    "frontend/src/i18n.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845560772
+    },
+    "frontend/src/services/products.service.ts": {
+      "hash": "9fac3c29cf8c8e637796b24f4460228f774dc764a152ac24135534c0e71df651",
+      "nodes": [],
+      "internalEdges": [],
+      "timestamp": 1771845560773
+    },
+    "backend/dist/common/dto/api-response.dto.js": {
+      "hash": "db459d1842ad188fdc1f028b9748bfe64780a86d53cefde7996fc2a8734cf9d0",
+      "nodes": [
+        {
+          "id": "backend/dist/common/dto/api-response.dto.js::constructor",
+          "label": "Initialize API Response",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/common/dto/api-response.dto.js",
+            "line": 5,
+            "function": "constructor"
+          },
+          "description": "This function initializes a new API response data transfer object."
+        }
+      ],
+      "internalEdges": [],
+      "timestamp": 1771853660573,
+      "nodeWorkflows": {
+        "backend/dist/common/dto/api-response.dto.js::constructor": {
+          "id": "workflow_api-response.dto",
+          "name": "api-response.dto"
+        }
+      }
+    },
+    "backend/dist/common/dto/pagination-query.dto.js": {
+      "hash": "1e318ff7ec4fb97d6e5c89662aae66e8f4313943cbcf35fc44a61dbe17f62879",
+      "nodes": [
+        {
+          "id": "backend/dist/common/dto/pagination-query.dto.js::constructor",
+          "label": "Initialize Pagination Query",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/common/dto/pagination-query.dto.js",
+            "line": 16,
+            "function": "constructor"
+          },
+          "description": "This function initializes a new pagination query data transfer object."
+        }
+      ],
+      "internalEdges": [],
+      "timestamp": 1771853660588,
+      "nodeWorkflows": {
+        "backend/dist/common/dto/pagination-query.dto.js::constructor": {
+          "id": "workflow_pagination-query.dto",
+          "name": "pagination-query.dto"
+        }
+      }
+    },
+    "backend/dist/common/interceptors/response.interceptor.js": {
+      "hash": "7a108979124bcb0c23c68daba4a1af6ff87bd1590aacdbd65ebc8281da703d94",
+      "nodes": [
+        {
+          "id": "backend/dist/common/interceptors/response.interceptor.js::intercept",
+          "label": "Intercept API Response",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/common/interceptors/response.interceptor.js",
+            "line": 14,
+            "function": "intercept"
+          },
+          "description": "This function intercepts outgoing API responses to standardize their format using an ApiResponse DTO."
+        }
+      ],
+      "internalEdges": [],
+      "timestamp": 1771853660592,
+      "nodeWorkflows": {
+        "backend/dist/common/interceptors/response.interceptor.js::intercept": {
+          "id": "workflow_response.interceptor",
+          "name": "response.interceptor"
+        }
+      }
+    },
+    "backend/dist/main.js": {
+      "hash": "de16b2a7677b6d8c3ac3080c56ec29dd00b331fadb7f0683dadc0755842c3d8c",
+      "nodes": [
+        {
+          "id": "backend/dist/main.js::bootstrap",
+          "label": "Bootstrap Application",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/main.js",
+            "line": 8,
+            "function": "bootstrap"
+          },
+          "description": "This function initializes and starts the NestJS application, configuring CORS, global prefix, and interceptors."
+        }
+      ],
+      "internalEdges": [],
+      "timestamp": 1771853660594,
+      "nodeWorkflows": {
+        "backend/dist/main.js::bootstrap": {
+          "id": "workflow_main",
+          "name": "main"
+        }
+      }
+    },
+    "backend/dist/modules/categories/categories.controller.js": {
+      "hash": "149b83560a9afbe305cf0b7970df8b4c7ce646c47953b1f09d1cd40ad0a14941",
+      "nodes": [
+        {
+          "id": "backend/dist/modules/categories/categories.controller.js::constructor",
+          "label": "Initialize Categories Controller",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/categories/categories.controller.js",
+            "line": 16,
+            "function": "constructor"
+          },
+          "description": "This function initializes the categories controller."
+        },
+        {
+          "id": "backend/dist/modules/categories/categories.controller.js::findAll",
+          "label": "Find All Categories",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/categories/categories.controller.js",
+            "line": 19,
+            "function": "findAll"
+          },
+          "description": "This function handles the API request to retrieve all product categories."
+        }
+      ],
+      "internalEdges": [],
+      "timestamp": 1771853660597,
+      "nodeWorkflows": {
+        "backend/dist/modules/categories/categories.controller.js::constructor": {
+          "id": "workflow_categories.controller",
+          "name": "categories.controller"
+        },
+        "backend/dist/modules/categories/categories.controller.js::findAll": {
+          "id": "workflow_categories.controller",
+          "name": "categories.controller"
+        }
+      }
+    },
+    "backend/dist/modules/categories/categories.service.js": {
+      "hash": "2e415aacb628007bdef34cc3bc333c2691bbd2aed5dbf548476b3af9aa47a752",
+      "nodes": [
+        {
+          "id": "backend/dist/modules/categories/categories.service.js::constructor",
+          "label": "Initialize Categories Service",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/categories/categories.service.js",
+            "line": 21,
+            "function": "constructor"
+          },
+          "description": "This function initializes the categories service."
+        },
+        {
+          "id": "backend/dist/modules/categories/categories.service.js::findAll",
+          "label": "Retrieve All Categories",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/categories/categories.service.js",
+            "line": 24,
+            "function": "findAll"
+          },
+          "description": "This function retrieves all product categories from the database."
+        },
+        {
+          "id": "backend/dist/modules/categories/categories.service.js::findBySlug",
+          "label": "Find Category By Slug",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/categories/categories.service.js",
+            "line": 32,
+            "function": "findBySlug"
+          },
+          "description": "This function finds a single product category using its unique slug."
+        }
+      ],
+      "internalEdges": [],
+      "timestamp": 1771853660602,
+      "nodeWorkflows": {
+        "backend/dist/modules/categories/categories.service.js::constructor": {
+          "id": "workflow_categories.service",
+          "name": "categories.service"
+        },
+        "backend/dist/modules/categories/categories.service.js::findAll": {
+          "id": "workflow_categories.service",
+          "name": "categories.service"
+        },
+        "backend/dist/modules/categories/categories.service.js::findBySlug": {
+          "id": "workflow_categories.service",
+          "name": "categories.service"
+        }
+      }
+    },
+    "backend/dist/modules/contact/contact.controller.js": {
+      "hash": "57d14cd7671a13368051ceeb1fa8801443417063a288ed362e66099a599b356d",
+      "nodes": [
+        {
+          "id": "backend/dist/modules/contact/contact.controller.js::constructor",
+          "label": "Initialize Contact Controller",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/contact/contact.controller.js",
+            "line": 20,
+            "function": "constructor"
+          },
+          "description": "This function initializes the contact controller."
+        },
+        {
+          "id": "backend/dist/modules/contact/contact.controller.js::create",
+          "label": "Create Contact Entry",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/contact/contact.controller.js",
+            "line": 23,
+            "function": "create"
+          },
+          "description": "This function handles the API request to create a new contact form submission."
+        }
+      ],
+      "internalEdges": [],
+      "timestamp": 1771853660610,
+      "nodeWorkflows": {
+        "backend/dist/modules/contact/contact.controller.js::constructor": {
+          "id": "workflow_contact.controller",
+          "name": "contact.controller"
+        },
+        "backend/dist/modules/contact/contact.controller.js::create": {
+          "id": "workflow_contact.controller",
+          "name": "contact.controller"
+        }
+      }
+    },
+    "backend/dist/modules/contact/contact.service.js": {
+      "hash": "6c532bd517f6a9c43e6d72cf811be592fc932695ea0dd3bb1188bf3e41274145",
+      "nodes": [
+        {
+          "id": "backend/dist/modules/contact/contact.service.js::constructor",
+          "label": "Initialize Contact Service",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/contact/contact.service.js",
+            "line": 21,
+            "function": "constructor"
+          },
+          "description": "This function initializes the contact service."
+        },
+        {
+          "id": "backend/dist/modules/contact/contact.service.js::create",
+          "label": "Save Contact Entry",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/contact/contact.service.js",
+            "line": 24,
+            "function": "create"
+          },
+          "description": "This function saves a new contact form submission to the database."
+        }
+      ],
+      "internalEdges": [],
+      "timestamp": 1771853660614,
+      "nodeWorkflows": {
+        "backend/dist/modules/contact/contact.service.js::constructor": {
+          "id": "workflow_contact.service",
+          "name": "contact.service"
+        },
+        "backend/dist/modules/contact/contact.service.js::create": {
+          "id": "workflow_contact.service",
+          "name": "contact.service"
+        }
+      }
+    },
+    "backend/dist/modules/orders/orders.controller.js": {
+      "hash": "4d2e53ddf13c5797d42ed1e8f84f93250f7bf423020cf8a7a636c24df136430d",
+      "nodes": [
+        {
+          "id": "backend/dist/modules/orders/orders.controller.js::constructor",
+          "label": "Initialize Orders Controller",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/orders/orders.controller.js",
+            "line": 22,
+            "function": "constructor"
+          },
+          "description": "This function initializes the orders controller."
+        },
+        {
+          "id": "backend/dist/modules/orders/orders.controller.js::create",
+          "label": "Create New Order",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/orders/orders.controller.js",
+            "line": 25,
+            "function": "create"
+          },
+          "description": "This function handles the API request to create a new customer order, potentially including file uploads."
+        }
+      ],
+      "internalEdges": [],
+      "timestamp": 1771853660625,
+      "nodeWorkflows": {
+        "backend/dist/modules/orders/orders.controller.js::constructor": {
+          "id": "workflow_orders.controller",
+          "name": "orders.controller"
+        },
+        "backend/dist/modules/orders/orders.controller.js::create": {
+          "id": "workflow_orders.controller",
+          "name": "orders.controller"
+        }
+      }
+    },
+    "backend/dist/modules/orders/orders.service.js": {
+      "hash": "6c532bd517f6a9c43e6d72cf811be592fc932695ea0dd3bb1188bf3e41274145",
+      "nodes": [
+        {
+          "id": "backend/dist/modules/orders/orders.service.js::constructor",
+          "label": "Initialize Orders Service",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/orders/orders.service.js",
+            "line": 21,
+            "function": "constructor"
+          },
+          "description": "This function initializes the orders service."
+        },
+        {
+          "id": "backend/dist/modules/orders/orders.service.js::create",
+          "label": "Save New Order",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/orders/orders.service.js",
+            "line": 24,
+            "function": "create"
+          },
+          "description": "This function saves a new customer order to the database."
+        }
+      ],
+      "internalEdges": [],
+      "timestamp": 1771853660629,
+      "nodeWorkflows": {
+        "backend/dist/modules/orders/orders.service.js::constructor": {
+          "id": "workflow_orders.service",
+          "name": "orders.service"
+        },
+        "backend/dist/modules/orders/orders.service.js::create": {
+          "id": "workflow_orders.service",
+          "name": "orders.service"
+        }
+      }
+    },
+    "backend/dist/modules/products/products.controller.js": {
+      "hash": "cbbf737df498189b63ec66175d0badaac652e7a3750a4de7295bb985388bf104",
+      "nodes": [
+        {
+          "id": "backend/dist/modules/products/products.controller.js::constructor",
+          "label": "Initialize Products Controller",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/products/products.controller.js",
+            "line": 20,
+            "function": "constructor"
+          },
+          "description": "This function initializes the products controller."
+        },
+        {
+          "id": "backend/dist/modules/products/products.controller.js::findAll",
+          "label": "Find All Products",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/products/products.controller.js",
+            "line": 23,
+            "function": "findAll"
+          },
+          "description": "This function handles the API request to retrieve all products."
+        },
+        {
+          "id": "backend/dist/modules/products/products.controller.js::findOne",
+          "label": "Find Single Product",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/products/products.controller.js",
+            "line": 26,
+            "function": "findOne"
+          },
+          "description": "This function handles the API request to retrieve a single product by its identifier."
+        }
+      ],
+      "internalEdges": [],
+      "timestamp": 1771853660638,
+      "nodeWorkflows": {
+        "backend/dist/modules/products/products.controller.js::constructor": {
+          "id": "workflow_products.controller",
+          "name": "products.controller"
+        },
+        "backend/dist/modules/products/products.controller.js::findAll": {
+          "id": "workflow_products.controller",
+          "name": "products.controller"
+        },
+        "backend/dist/modules/products/products.controller.js::findOne": {
+          "id": "workflow_products.controller",
+          "name": "products.controller"
+        }
+      }
+    },
+    "backend/dist/modules/products/products.service.js": {
+      "hash": "7753818d3abc1566128994f41e6a92e16ad0003bfad00039bdae53ba9043003d",
+      "nodes": [
+        {
+          "id": "backend/dist/modules/products/products.service.js::constructor",
+          "label": "Initialize Products Service",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/products/products.service.js",
+            "line": 21,
+            "function": "constructor"
+          },
+          "description": "This function initializes the products service."
+        },
+        {
+          "id": "backend/dist/modules/products/products.service.js::findAll",
+          "label": "Retrieve All Products",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/products/products.service.js",
+            "line": 24,
+            "function": "findAll"
+          },
+          "description": "This function retrieves all products from the database, supporting pagination and filtering."
+        },
+        {
+          "id": "backend/dist/modules/products/products.service.js::findOne",
+          "label": "Retrieve Single Product",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/products/products.service.js",
+            "line": 53,
+            "function": "findOne"
+          },
+          "description": "This function retrieves a single product by its identifier, throwing an exception if not found."
+        },
+        {
+          "id": "backend/dist/modules/products/products.service.js::findRelated",
+          "label": "Find Related Products",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/modules/products/products.service.js",
+            "line": 63,
+            "function": "findRelated"
+          },
+          "description": "This function finds products related to a given product."
+        }
+      ],
+      "internalEdges": [],
+      "timestamp": 1771853660644,
+      "nodeWorkflows": {
+        "backend/dist/modules/products/products.service.js::constructor": {
+          "id": "workflow_products.service",
+          "name": "products.service"
+        },
+        "backend/dist/modules/products/products.service.js::findAll": {
+          "id": "workflow_products.service",
+          "name": "products.service"
+        },
+        "backend/dist/modules/products/products.service.js::findOne": {
+          "id": "workflow_products.service",
+          "name": "products.service"
+        },
+        "backend/dist/modules/products/products.service.js::findRelated": {
+          "id": "workflow_products.service",
+          "name": "products.service"
+        }
+      }
+    },
+    "backend/dist/seed.js": {
+      "hash": "4dd46df2303a32348bd44ced2d62da62f6602bfa919058a2427928ba6634f724",
+      "nodes": [
+        {
+          "id": "backend/dist/seed.js::seed",
+          "label": "Seed Database",
+          "type": "step",
+          "source": {
+            "file": "backend/dist/seed.js",
+            "line": 259,
+            "function": "seed"
+          },
+          "description": "This function populates the database with initial data, primarily for categories."
+        }
+      ],
+      "internalEdges": [],
+      "timestamp": 1771853660652,
+      "nodeWorkflows": {
+        "backend/dist/seed.js::seed": {
+          "id": "workflow_seed",
+          "name": "seed"
+        }
+      }
+    }
+  },
+  "crossFileEdges": [
+    {
+      "sourceFile": "frontend/src/hooks/useCategories.ts",
+      "sourceNodeId": "frontend/src/hooks/useCategories.ts::useCategories",
+      "targetFile": "backend/api.ts",
+      "targetNodeId": "backend/api.ts::getCategories",
+      "label": "GET /categories",
+      "timestamp": 1771845560768
+    }
+  ],
+  "workflows": {
+    "workflow_fetch_categories": {
+      "id": "workflow_fetch_categories",
+      "name": "Fetch Categories",
+      "description": null,
+      "primaryFile": "frontend/src/hooks/useCategories.ts"
+    },
+    "workflow_api-response.dto": {
+      "id": "workflow_api-response.dto",
+      "name": "api-response.dto",
+      "description": "Workflow from api-response.dto",
+      "primaryFile": "backend/dist/common/dto/api-response.dto.js"
+    },
+    "workflow_pagination-query.dto": {
+      "id": "workflow_pagination-query.dto",
+      "name": "pagination-query.dto",
+      "description": "Workflow from pagination-query.dto",
+      "primaryFile": "backend/dist/common/dto/pagination-query.dto.js"
+    },
+    "workflow_response.interceptor": {
+      "id": "workflow_response.interceptor",
+      "name": "response.interceptor",
+      "description": "Workflow from response.interceptor",
+      "primaryFile": "backend/dist/common/interceptors/response.interceptor.js"
+    },
+    "workflow_main": {
+      "id": "workflow_main",
+      "name": "main",
+      "description": "Workflow from main",
+      "primaryFile": "backend/dist/main.js"
+    },
+    "workflow_categories.controller": {
+      "id": "workflow_categories.controller",
+      "name": "categories.controller",
+      "description": "Workflow from categories.controller",
+      "primaryFile": "backend/dist/modules/categories/categories.controller.js"
+    },
+    "workflow_categories.service": {
+      "id": "workflow_categories.service",
+      "name": "categories.service",
+      "description": "Workflow from categories.service",
+      "primaryFile": "backend/dist/modules/categories/categories.service.js"
+    },
+    "workflow_contact.controller": {
+      "id": "workflow_contact.controller",
+      "name": "contact.controller",
+      "description": "Workflow from contact.controller",
+      "primaryFile": "backend/dist/modules/contact/contact.controller.js"
+    },
+    "workflow_contact.service": {
+      "id": "workflow_contact.service",
+      "name": "contact.service",
+      "description": "Workflow from contact.service",
+      "primaryFile": "backend/dist/modules/contact/contact.service.js"
+    },
+    "workflow_orders.controller": {
+      "id": "workflow_orders.controller",
+      "name": "orders.controller",
+      "description": "Workflow from orders.controller",
+      "primaryFile": "backend/dist/modules/orders/orders.controller.js"
+    },
+    "workflow_orders.service": {
+      "id": "workflow_orders.service",
+      "name": "orders.service",
+      "description": "Workflow from orders.service",
+      "primaryFile": "backend/dist/modules/orders/orders.service.js"
+    },
+    "workflow_products.controller": {
+      "id": "workflow_products.controller",
+      "name": "products.controller",
+      "description": "Workflow from products.controller",
+      "primaryFile": "backend/dist/modules/products/products.controller.js"
+    },
+    "workflow_products.service": {
+      "id": "workflow_products.service",
+      "name": "products.service",
+      "description": "Workflow from products.service",
+      "primaryFile": "backend/dist/modules/products/products.service.js"
+    },
+    "workflow_seed": {
+      "id": "workflow_seed",
+      "name": "seed",
+      "description": "Workflow from seed",
+      "primaryFile": "backend/dist/seed.js"
+    }
+  }
+}
