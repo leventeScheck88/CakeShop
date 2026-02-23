@@ -30,7 +30,13 @@ export function useProducts(options: UseProductsOptions = {}) {
       .getAll({ page, limit, category, featured, search }, controller.signal)
       .then((res) => setData(res.data))
       .catch((err: Error) => {
-        if (!controller.signal.aborted) setError(err.message);
+        if (!controller.signal.aborted) {
+          if (err.message === 'NETWORK_ERROR') {
+            setData({ items: [], total: 0, page: 1, totalPages: 0 });
+          } else {
+            setError(err.message);
+          }
+        }
       })
       .finally(() => {
         if (!controller.signal.aborted) setLoading(false);
