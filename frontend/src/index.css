@@ -13,6 +13,7 @@
   --color-gold-light: 232 213 168;
   --color-charcoal: 45 45 45;
   --color-warm-gray: 107 107 107;
+  --color-card: 255 255 255;
 }
 
 /* Dark theme */
@@ -24,6 +25,7 @@ html.dark {
   --color-gold-light: 180 150 95;
   --color-charcoal: 235 225 210;
   --color-warm-gray: 160 145 125;
+  --color-card: 42 34 26;
 }
 
 body {

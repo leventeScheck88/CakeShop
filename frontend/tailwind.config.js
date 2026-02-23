@@ -12,6 +12,7 @@ export default {
         'gold-light': 'rgb(var(--color-gold-light) / <alpha-value>)',
         charcoal: 'rgb(var(--color-charcoal) / <alpha-value>)',
         'warm-gray': 'rgb(var(--color-warm-gray) / <alpha-value>)',
+        card: 'rgb(var(--color-card) / <alpha-value>)',
       },
       fontFamily: {
         serif: ['Playfair Display', 'Georgia', 'serif'],

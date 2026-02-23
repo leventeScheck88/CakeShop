@@ -13,7 +13,11 @@ export function useCategories() {
       .getAll(controller.signal)
       .then((res) => setCategories(res.data))
       .catch((err: Error) => {
-        if (!controller.signal.aborted) setError(err.message);
+        if (!controller.signal.aborted) {
+          if (err.message !== 'NETWORK_ERROR') {
+            setError(err.message);
+          }
+        }
       })
       .finally(() => {
         if (!controller.signal.aborted) setLoading(false);

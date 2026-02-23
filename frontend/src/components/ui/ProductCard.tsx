@@ -15,7 +15,7 @@ export default function ProductCard({ product }: ProductCardProps) {
   return (
     <Link
       to={`/produse/${product.id}`}
-      className="group block bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-300"
+      className="group block bg-card rounded-lg overflow-hidden shadow-sm hover:shadow-md transition-all duration-300"
     >
       <div className="aspect-[4/3] overflow-hidden bg-blush">
         <img

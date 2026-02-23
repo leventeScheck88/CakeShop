@@ -8,8 +8,11 @@ const api = axios.create({
 api.interceptors.response.use(
   (response) => response.data,
   (error) => {
+    if (!error.response) {
+      return Promise.reject(new Error('NETWORK_ERROR'));
+    }
     const message =
-      error.response?.data?.message ||
+      error.response.data?.message ||
       'A apărut o eroare. Vă rugăm încercați din nou.';
     return Promise.reject(new Error(message));
   },
